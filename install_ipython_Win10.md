@@ -5,7 +5,7 @@
 #### 3 Install Pip for python 
 
 #### 4 Go to the folder of python installation and check if there is a executable file named "easy_install-3.7.exe"
-![step4.jpg](attachment:step4.jpg)
+![step4.jpg](attachment:./step4.jpg)
 
 #### 5 Run the cmd using admin account and run the command line "easy_install-3.7 ipython" and close this terminal after finishing installation
 
